@@ -1,1 +1,5 @@
-print()
+a=int(input('輸入變數：'))
+b=int(input('輸入變數：'))
+print('交換後結果：')
+print('a=',b)
+print('b=',a)
